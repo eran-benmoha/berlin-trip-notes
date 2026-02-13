@@ -28,6 +28,7 @@
 
 ## 20.2 (Wall / Cold War + Kreuzberg food)
 - **Weather**:
+- **Breakfast**: [**Die Creme**](https://www.google.com/maps/search/?api=1&query=Die+Creme) (Schönhauser Allee, Prenzlauer Berg) — short walk from lodging. Rated 4.6.
 - **Morning**: Topography of Terror (free, excellent)
 - **Midday**: quick Checkpoint Charlie area look (optional)
 - **Afternoon (outdoor block)**: East Side Gallery + Oberbaum Bridge
