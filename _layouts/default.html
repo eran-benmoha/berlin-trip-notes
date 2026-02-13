@@ -4,52 +4,177 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | default: site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
-    /* ---------- base reset + typography ---------- */
+    /* ============================================
+       Berlin Trip Binder — visual theme
+       ============================================ */
+
+    :root {
+      --amber-50:  #fffbeb;
+      --amber-100: #fef3c7;
+      --amber-200: #fde68a;
+      --amber-400: #fbbf24;
+      --amber-500: #f59e0b;
+      --amber-600: #d97706;
+      --amber-700: #b45309;
+      --blue-50:   #eff6ff;
+      --blue-100:  #dbeafe;
+      --blue-500:  #3b82f6;
+      --blue-600:  #2563eb;
+      --blue-700:  #1d4ed8;
+      --gray-50:   #f9fafb;
+      --gray-100:  #f3f4f6;
+      --gray-200:  #e5e7eb;
+      --gray-300:  #d1d5db;
+      --gray-500:  #6b7280;
+      --gray-700:  #374151;
+      --gray-800:  #1f2937;
+      --gray-900:  #111827;
+      --green-50:  #f0fdf4;
+      --green-500: #22c55e;
+      --green-700: #15803d;
+      --red-50:    #fef2f2;
+      --red-500:   #ef4444;
+      --red-700:   #b91c1c;
+      --radius:    10px;
+    }
+
     *, *::before, *::after { box-sizing: border-box; }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-                   Helvetica, Arial, sans-serif;
-      line-height: 1.6;
-      color: #1f2937;
-      background: #fff;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI",
+                   Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.65;
+      color: var(--gray-800);
+      background: var(--gray-50);
       margin: 0;
-      padding: 16px;
-      max-width: 860px;
-      margin-left: auto;
-      margin-right: auto;
+      padding: 0;
       -webkit-text-size-adjust: 100%;
     }
 
+    /* ---------- header / hero ---------- */
+    .site-header {
+      background: linear-gradient(135deg, var(--gray-900) 0%, #1e3a5f 50%, var(--amber-700) 100%);
+      color: #fff;
+      padding: 20px 20px 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+    }
+
+    .site-header .header-inner {
+      max-width: 880px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .site-title {
+      font-size: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .site-title a { color: #fff; text-decoration: none; }
+    .site-title a:hover { opacity: 0.9; }
+
+    /* ---------- navigation pills ---------- */
+    .site-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .site-nav a {
+      display: inline-block;
+      font-size: 0.78rem;
+      font-weight: 500;
+      color: rgba(255,255,255,0.85);
+      background: rgba(255,255,255,0.12);
+      padding: 4px 10px;
+      border-radius: 20px;
+      text-decoration: none;
+      transition: background 0.2s, color 0.2s;
+      white-space: nowrap;
+    }
+
+    .site-nav a:hover {
+      background: rgba(255,255,255,0.25);
+      color: #fff;
+    }
+
+    /* ---------- main content area ---------- */
+    .content {
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 24px 20px 60px;
+    }
+
     /* ---------- headings ---------- */
-    h1 { font-size: 1.6rem; margin: 1.2em 0 0.4em; }
-    h2 { font-size: 1.3rem; margin: 1.4em 0 0.4em; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.3em; }
-    h3 { font-size: 1.1rem; margin: 1.2em 0 0.3em; }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      color: var(--gray-900);
+      margin: 0.6em 0 0.3em;
+      letter-spacing: -0.02em;
+    }
+
+    h2 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--gray-900);
+      margin: 1.8em 0 0.5em;
+      padding-bottom: 0.35em;
+      border-bottom: 3px solid var(--amber-400);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    h3 {
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--amber-700);
+      margin: 1.3em 0 0.3em;
+    }
 
     /* ---------- links ---------- */
-    a { color: #2563eb; text-decoration: none; }
-    a:hover { text-decoration: underline; }
+    a { color: var(--blue-600); text-decoration: none; }
+    a:hover { text-decoration: underline; color: var(--blue-700); }
 
     /* ---------- lists ---------- */
-    ul, ol { padding-left: 1.4em; }
-    li { margin-bottom: 0.3em; }
+    ul, ol { padding-left: 1.3em; }
+    li { margin-bottom: 0.35em; }
+    li strong { color: var(--gray-900); }
 
     /* ---------- blockquotes ---------- */
     blockquote {
-      border-left: 3px solid #3b82f6;
+      border-left: 4px solid var(--amber-400);
       margin: 1em 0;
-      padding: 0.5em 1em;
-      background: #f0f7ff;
-      border-radius: 0 6px 6px 0;
+      padding: 0.6em 1em;
+      background: var(--amber-50);
+      border-radius: 0 var(--radius) var(--radius) 0;
+      font-size: 0.95rem;
     }
     blockquote p { margin: 0.3em 0; }
 
     /* ---------- horizontal rules ---------- */
     hr {
       border: none;
-      border-top: 1px solid #e5e7eb;
-      margin: 1.5em 0;
+      height: 2px;
+      background: linear-gradient(to right, var(--amber-400), var(--blue-500), var(--amber-400));
+      margin: 2em 0;
+      border-radius: 2px;
+      opacity: 0.5;
     }
 
     /* ---------- responsive tables ---------- */
@@ -58,30 +183,39 @@
       overflow-x: auto;
       -webkit-overflow-scrolling: touch;
       margin: 1em 0;
+      border-radius: var(--radius);
+      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
     }
 
     table {
       border-collapse: collapse;
       width: 100%;
       min-width: 400px;
-      font-size: 0.9rem;
+      font-size: 0.88rem;
+      background: #fff;
     }
 
     th, td {
-      border: 1px solid #d1d5db;
-      padding: 8px 10px;
+      border: 1px solid var(--gray-200);
+      padding: 10px 12px;
       text-align: left;
       vertical-align: top;
     }
 
     th {
-      background: #f3f4f6;
+      background: linear-gradient(to bottom, var(--gray-800), var(--gray-900));
+      color: #fff;
       font-weight: 600;
+      font-size: 0.82rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
       position: sticky;
       top: 0;
+      border-color: var(--gray-700);
     }
 
-    tr:nth-child(even) { background: #f9fafb; }
+    tr:nth-child(even) { background: var(--gray-50); }
+    tr:hover { background: var(--amber-50); }
 
     /* ---------- responsive iframes (maps) ---------- */
     iframe {
@@ -89,8 +223,9 @@
       max-width: 100%;
       height: 300px;
       border: 0;
-      border-radius: 8px;
+      border-radius: var(--radius);
       margin: 1em 0;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     }
 
     @media (min-width: 600px) {
@@ -100,72 +235,145 @@
     /* ---------- details / collapsible ---------- */
     details {
       margin: 0.8em 0;
-      padding: 0.5em 0.8em;
-      background: #f9fafb;
-      border: 1px solid #e5e7eb;
-      border-radius: 6px;
+      padding: 0.6em 1em;
+      background: #fff;
+      border: 1px solid var(--gray-200);
+      border-left: 4px solid var(--blue-500);
+      border-radius: var(--radius);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
     }
 
     details summary {
       cursor: pointer;
       font-weight: 600;
-      font-size: 0.9rem;
-      color: #374151;
+      font-size: 0.88rem;
+      color: var(--blue-600);
+      padding: 2px 0;
     }
 
+    details summary:hover { color: var(--blue-700); }
     details[open] summary { margin-bottom: 0.5em; }
 
     /* ---------- code / inline ---------- */
     code {
-      background: #f3f4f6;
-      padding: 0.15em 0.4em;
+      background: var(--amber-100);
+      color: var(--amber-700);
+      padding: 0.15em 0.45em;
       border-radius: 4px;
-      font-size: 0.88em;
+      font-size: 0.86em;
+      font-weight: 500;
     }
 
-    /* ---------- strong in tables ---------- */
-    td strong { white-space: nowrap; }
+    /* ---------- "sold out" badges ---------- */
+    td strong:first-child {
+      white-space: nowrap;
+    }
+
+    /* ---------- images ---------- */
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: var(--radius);
+    }
 
     /* ---------- mobile tweaks ---------- */
     @media (max-width: 600px) {
-      body { padding: 12px; font-size: 15px; }
-      h1 { font-size: 1.4rem; }
-      h2 { font-size: 1.15rem; }
-      h3 { font-size: 1rem; }
-      table { font-size: 0.82rem; }
-      th, td { padding: 6px 8px; }
+      .content { padding: 16px 14px 40px; }
+      body { font-size: 15px; }
+      h1 { font-size: 1.35rem; }
+      h2 { font-size: 1.1rem; }
+      h3 { font-size: 0.95rem; }
+      table { font-size: 0.8rem; }
+      th, td { padding: 7px 8px; }
+      .site-header { padding: 14px 14px 12px; }
+      .site-title { font-size: 0.95rem; }
+      .site-nav a { font-size: 0.72rem; padding: 3px 8px; }
     }
 
-    /* ---------- navigation ---------- */
-    .site-nav {
-      font-size: 0.85rem;
-      padding: 8px 0;
-      margin-bottom: 1em;
-      border-bottom: 1px solid #e5e7eb;
-      color: #6b7280;
+    /* ---------- footer ---------- */
+    .site-footer {
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 20px;
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--gray-500);
+      border-top: 1px solid var(--gray-200);
     }
 
-    .site-nav a { margin-right: 0.6em; }
+    /* ---------- homepage cards ---------- */
+    .page-cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 12px;
+      margin: 1.2em 0;
+    }
+
+    .page-cards a {
+      display: block;
+      padding: 14px 16px;
+      background: #fff;
+      border: 1px solid var(--gray-200);
+      border-radius: var(--radius);
+      text-decoration: none;
+      color: var(--gray-800);
+      font-weight: 600;
+      font-size: 0.92rem;
+      transition: all 0.2s;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+
+    .page-cards a:hover {
+      border-color: var(--amber-400);
+      box-shadow: 0 4px 12px rgba(251,191,36,0.15);
+      transform: translateY(-2px);
+      text-decoration: none;
+    }
+
+    .page-cards a .card-desc {
+      display: block;
+      font-weight: 400;
+      font-size: 0.8rem;
+      color: var(--gray-500);
+      margin-top: 4px;
+    }
 
     /* ---------- print ---------- */
     @media print {
-      body { max-width: 100%; padding: 0; }
-      iframe, .site-nav { display: none; }
+      body { background: #fff; }
+      .content { max-width: 100%; padding: 0; }
+      iframe, .site-header, .site-footer { display: none; }
       a { color: inherit; text-decoration: none; }
+      h2 { border-bottom-color: #000; }
     }
   </style>
 </head>
 <body>
 
-  <nav class="site-nav">
-    <a href="{{ '/' | relative_url }}">Home</a>
-    <a href="{{ '/01-itinerary' | relative_url }}">Itinerary</a>
-    <a href="{{ '/02-bookings' | relative_url }}">Bookings</a>
-    <a href="{{ '/03-places-food' | relative_url }}">Places</a>
-    <a href="{{ '/11-potsdam-day-trip' | relative_url }}">Potsdam</a>
-  </nav>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="site-title">
+        <span>&#9992;&#65039;</span>
+        <a href="{{ '/' | relative_url }}">Berlin Trip &middot; 18–22 Feb</a>
+      </div>
+      <nav class="site-nav">
+        <a href="{{ '/01-itinerary' | relative_url }}">Itinerary</a>
+        <a href="{{ '/02-bookings' | relative_url }}">Bookings</a>
+        <a href="{{ '/03-places-food' | relative_url }}">Places & Food</a>
+        <a href="{{ '/09-wife-places' | relative_url }}">Saved Places</a>
+        <a href="{{ '/10-eat-berlin-events' | relative_url }}">eat! Berlin</a>
+        <a href="{{ '/11-potsdam-day-trip' | relative_url }}">Potsdam</a>
+      </nav>
+    </div>
+  </header>
 
-  {{ content }}
+  <main class="content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    Berlin Trip Notes &middot; 18.2 &rarr; 22.2 &middot; Wolliner Str 12b
+  </footer>
 
 </body>
 <script>
