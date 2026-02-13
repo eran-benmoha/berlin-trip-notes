@@ -15,8 +15,11 @@ Quick nav: [Trip overview](00-trip-overview.html) · [Itinerary](01-itinerary.ht
 | Arrival | El Al (LY) |  | 18.2 | Arrive **09:30** | TLV (Ben Gurion) → BER | Add: flight #, terminal, baggage info. |
 | Departure | El Al (LY) |  | 22.2 | Depart **~21:30** | BER → TLV | Add: flight #, terminal, baggage drop cutoff. |
 
-### Getting to/from BER (notes)
-- Easiest from your area: **Tram M10 → Berlin Hbf**, then airport train (e.g. FEX/RE) to BER.
+### Getting to/from BER (public transport)
+- **Arrival (18.2)**: BER → **FEX or RE** to **Berlin Hbf** (~30 min) → **Tram M10** to "Wolliner Str." (~15 min). Total ~45 min.
+- **Departure (22.2)**: **Tram M10** from "Wolliner Str." → **Berlin Hbf** (~15 min) → **FEX or RE** to BER (~30 min). Total ~45 min. Leave by **~19:00**.
+  - If coming from Charlottenburg: **S41/S42** to "Südkreuz" (~20 min) → **FEX** to BER (~20 min).
+- All covered by **WelcomeCard ABC** (zone C includes BER).
 
 ### Calendar reminder template (fill once you confirm exact times)
 - Flight TLV → BER (LY____) — **Depart** __:__ • **Arrive** 09:30
