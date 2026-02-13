@@ -33,18 +33,12 @@
 - **Afternoon (outdoor block)**: East Side Gallery + Oberbaum Bridge
 - **Evening**: Kreuzberg food + bars
 
-## 21.2 (Choose one focus)
-**Weather**:
-Pick one:
-- **Option A — History day trip**: Sachsenhausen Memorial (dress warm)
-- **Option B — “West Berlin” culture/shopping**: Kaiser Wilhelm Memorial Church → **KaDeWe (6th floor “Die Sechste” food hall)** → Bikini Berlin
-  - Dinner nearby: **Faustus Schnitzelhaus** (Wittenbergplatz 2)
-- **Option C — Modern art + neighborhoods**: Hamburger Bahnhof + Friedrichshain/Kreuzberg wandering
-
-### Alternate day trip idea (fits Option A/C instead)
-- **Potsdam**: Dutch Quarter + Sanssouci Palace/park
-- **On the way (same direction)**: **House of the Wannsee Conference** (open daily 10:00–18:00, free)
-  - Route sketch: S7 toward Potsdam → get off **Berlin-Wannsee** → bus **114** toward Heckeshorn → stop “Haus der Wannsee-Konferenz”
+## 21.2 (Wannsee + Potsdam day trip)
+- **Weather**:
+- **Full day trip**: Wannsee Conference House → Potsdam (Sanssouci, Dutch Quarter, city center)
+- See detailed plan: [`11-potsdam-day-trip.md`](11-potsdam-day-trip.html)
+- **09:00** depart → S1 from Gesundbrunnen → Wannsee stop → Potsdam → **~18:00** back in Berlin
+- **Evening**: dinner in Berlin (near lodging or Prenzlauer Berg)
 
 ## 22.2 (Departure day)
 - **Weather**:

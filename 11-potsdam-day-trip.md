@@ -1,7 +1,7 @@
 # Day Trip: Berlin → Potsdam
 
 > **Date**: TBD (fits any day during 18.2–22.2; best on **20.2 or 21.2** when you have a full day)
-> **Duration**: ~6–8 hours (leave morning, back by evening)
+> **Duration**: ~8 hours (leave morning, back by evening) — includes Wannsee stop
 > **Transit zone**: You need an **ABC ticket** (Potsdam is in zone C). If you have the **Berlin WelcomeCard ABC**, it already covers this.
 
 ---
@@ -27,37 +27,24 @@ Same routes in reverse. Last S1 from Potsdam Hbf back toward Gesundbrunnen is us
 
 ---
 
-## Suggested itinerary
-
-### Option A: Potsdam highlights (relaxed, ~6 hours)
+## Itinerary — Wannsee + Potsdam (~8 hours)
 
 | Time (approx.) | Activity | Notes |
 |---|---|---|
-| **09:00** | Depart Wolliner Str | S1 from Gesundbrunnen |
-| **10:00** | Arrive **Potsdam Hbf** | Grab a coffee near the station if needed |
-| **10:15–12:30** | **Sanssouci Park & Palace** | Walk the terraced vineyards, see the palace exterior (interior visit optional, ~€14 for the palace; the park is free). Even in February the grounds are beautiful and peaceful. |
-| **12:30–13:30** | **Lunch** in or near the Dutch Quarter | See food suggestions below |
-| **13:30–14:30** | **Dutch Quarter (Holländisches Viertel)** | Stroll the charming red-brick streets, pop into independent shops and cafés |
-| **14:30–15:30** | **Brandenburger Straße** (Potsdam's pedestrian shopping street) + **Nauener Tor** (one of the old city gates) | Nice walk, some cafés |
-| **15:30–16:00** | Optional: **Nikolaikirche** (Church of St. Nicholas) on the Alter Markt | Impressive domed church, free to enter |
-| **16:00–16:30** | Head back to Potsdam Hbf | |
-| **~17:00** | Back in Berlin | Dinner in Berlin as planned |
-
-### Option B: Potsdam + Wannsee Conference House (~7–8 hours)
-
-> Adds a powerful and sobering historical stop on the way. The **House of the Wannsee Conference** is where the "Final Solution" was formally coordinated in January 1942.
-
-| Time (approx.) | Activity | Notes |
-|---|---|---|
-| **09:00** | Depart Wolliner Str | **S1** from Gesundbrunnen |
+| **09:00** | Depart Wolliner Str | Walk to **S+U Gesundbrunnen** (~10 min), take **S1** direction Potsdam |
 | **09:40** | Get off at **S Wannsee** | ~40 min ride |
 | **09:50** | **Bus 114** (direction Heckeshorn) → stop **"Haus der Wannsee-Konferenz"** | ~10 min bus ride |
-| **10:00–11:15** | **House of the Wannsee Conference** | Free admission. Open daily 10:00–18:00. Excellent exhibition (mostly in German + English). Allow 60–75 min. |
+| **10:00–11:15** | **House of the Wannsee Conference** | Free admission. Open daily 10:00–18:00. Excellent exhibition (German + English). Allow 60–75 min. This is where the "Final Solution" was formally coordinated in January 1942. |
 | **11:20** | **Bus 114** back to **S Wannsee** | |
 | **11:40** | **S7** from Wannsee → **Potsdam Hbf** | ~15 min |
-| **12:00** | Arrive Potsdam Hbf | |
-| **12:00–17:00** | Follow the Potsdam highlights above (slightly compressed) | Skip one stop if needed to keep things relaxed |
-| **~17:30** | Back in Berlin | |
+| **12:00** | Arrive **Potsdam Hbf** | |
+| **12:15–14:00** | **Sanssouci Park & Palace** | Bus 695 to "Schloss Sanssouci" (~15 min). Walk the terraced vineyards, see the palace exterior. Interior visit optional (~€14, timed ticket). The park is free and beautiful even in February. |
+| **14:00–15:00** | **Lunch** in the Dutch Quarter | Walk back toward the city center (~15 min from Sanssouci). See food suggestions below. |
+| **15:00–15:45** | **Dutch Quarter (Holländisches Viertel)** | Stroll the charming red-brick streets, pop into independent shops and cafés |
+| **15:45–16:30** | **Brandenburger Straße** + **Nauener Tor** | Potsdam's pedestrian shopping street + one of the old city gates. Good for a warm-up coffee stop. |
+| **16:30–17:00** | Optional: **Nikolaikirche** on the Alter Markt | Impressive domed church, free to enter. Skip if you're running short on time. |
+| **17:00–17:15** | Head back to Potsdam Hbf | ~10 min walk |
+| **~18:00** | Back in Berlin | S1 back to Gesundbrunnen. Dinner in Berlin as planned. |
 
 ---
 
@@ -125,7 +112,7 @@ Same routes in reverse. Last S1 from Potsdam Hbf back toward Gesundbrunnen is us
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19468.!2d13.038!3d52.400!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a8f5be516ce021%3A0x87b11b3e9a1f2d68!2sSanssouci%20Palace!5e0!3m2!1sen!2sde!4v1700000000000!5m2!1sen!2sde" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-### Wannsee Conference House (Option B)
+### Wannsee Conference House
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4870.!2d13.163!3d52.433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a858a4e69a23c1%3A0x3e6eb7c64e498f29!2sHouse%20of%20the%20Wannsee%20Conference!5e0!3m2!1sen!2sde!4v1700000000000!5m2!1sen!2sde" width="100%" height="300" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -145,12 +132,12 @@ Same routes in reverse. Last S1 from Potsdam Hbf back toward Gesundbrunnen is us
 
 ---
 
-## Summary / quick decision helper
+## Quick reference
 
 | Question | Answer |
 |---|---|
-| **Which day?** | Any full day works. **21.2 (Sat)** keeps it flexible — or **20.2 (Fri)** if you want Sat free for Berlin. |
-| **How long?** | 6 hours (highlights only) to 8 hours (with Wannsee). |
-| **Need to pre-book?** | Only if you want to go **inside** Sanssouci Palace. Everything else is walk-up. |
+| **Which day?** | TBD — any full day works. **21.2 (Sat)** keeps it flexible, or **20.2 (Fri)** if you want Saturday free for Berlin. |
+| **How long?** | ~8 hours (09:00–18:00), including Wannsee. |
+| **Need to pre-book?** | Only if you want to go **inside** Sanssouci Palace. Everything else (including Wannsee) is walk-up and free. |
 | **Transit cost?** | Covered by WelcomeCard ABC. Otherwise a single ABC day ticket (~€9.90). |
-| **Best for a cold/rainy day?** | Partly — museums + cafés are great, but Sanssouci Park is the highlight and that's outdoors. Pick a day with decent weather if possible. |
+| **Best for a cold/rainy day?** | The Wannsee exhibition is indoors and excellent rain or shine. Sanssouci Park is outdoors — pick a day with decent weather if possible. Dutch Quarter cafés are a good warm-up backup. |
