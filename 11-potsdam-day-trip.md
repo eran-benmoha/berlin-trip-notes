@@ -119,68 +119,29 @@ Same routes in reverse. Last S1 from Potsdam Hbf back toward Gesundbrunnen is us
 
 ---
 
-## Interactive map
+## Map
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+### Potsdam city center & Sanssouci
 
-<div id="potsdam-map" style="height: 420px; width: 100%; border-radius: 8px; border: 1px solid #ddd; margin: 1em 0;"></div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19468.!2d13.038!3d52.400!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a8f5be516ce021%3A0x87b11b3e9a1f2d68!2sSanssouci%20Palace!5e0!3m2!1sen!2sde!4v1700000000000!5m2!1sen!2sde" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<script>
-(function () {
-  var map = L.map('potsdam-map').setView([52.44, 13.10], 11);
+### Wannsee Conference House (Option B)
 
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-    maxZoom: 18
-  }).addTo(map);
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4870.!2d13.163!3d52.433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a858a4e69a23c1%3A0x3e6eb7c64e498f29!2sHouse%20of%20the%20Wannsee%20Conference!5e0!3m2!1sen!2sde!4v1700000000000!5m2!1sen!2sde" width="100%" height="300" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-  /* --- marker colours via simple circle markers --- */
-  function pin(lat, lng, color, label, info) {
-    L.circleMarker([lat, lng], {
-      radius: 8, fillColor: color, color: '#fff',
-      weight: 2, opacity: 1, fillOpacity: 0.9
-    }).addTo(map).bindPopup('<strong>' + label + '</strong><br>' + info);
-  }
+### Quick links (open in Google Maps)
 
-  /* Home base (green) */
-  pin(52.5387, 13.3987, '#22c55e', 'Wolliner Str 12b',
-      'Your home base in Berlin');
-
-  /* Transit (gray) */
-  pin(52.5488, 13.3886, '#6b7280', 'S+U Gesundbrunnen',
-      'S1 direct to Potsdam (~45 min)');
-
-  /* Wannsee stop (orange) */
-  pin(52.4332, 13.1650, '#f59e0b', 'Haus der Wannsee-Konferenz',
-      'Free. Open daily 10:00–18:00.<br>Option B stop on the way to Potsdam.');
-
-  /* Potsdam sights (blue) */
-  pin(52.3913, 13.0670, '#3b82f6', 'Potsdam Hauptbahnhof',
-      'Arrival point. Bus 695 to Sanssouci from here.');
-  pin(52.4042, 13.0386, '#3b82f6', 'Sanssouci Palace & Park',
-      'Park is free. Palace interior ~€14 (timed ticket).<br>The main highlight of the day trip.');
-  pin(52.4012, 13.0596, '#3b82f6', 'Dutch Quarter',
-      '134 red-brick houses, cafés, independent shops.');
-  pin(52.3975, 13.0575, '#3b82f6', 'Brandenburger Straße',
-      'Potsdam\'s pedestrian shopping street.');
-  pin(52.3952, 13.0607, '#3b82f6', 'Nikolaikirche',
-      'Domed church on the Alter Markt. Free entry.');
-  pin(52.4139, 13.0705, '#3b82f6', 'Cecilienhof Palace',
-      'Site of the 1945 Potsdam Conference. ~€10.');
-
-  /* Food (red) */
-  pin(52.4013, 13.0590, '#ef4444', 'Maison Charlotte',
-      'French wine bar & bistro — Dutch Quarter.');
-  pin(52.3988, 13.0558, '#ef4444', 'Kaffeehaus Kieselstein',
-      'Local favourite café — Gutenbergstraße 19.');
-})();
-</script>
-
-**Legend**: <span style="color:#22c55e">&#9679;</span> Home base &nbsp; <span style="color:#6b7280">&#9679;</span> Transit &nbsp; <span style="color:#3b82f6">&#9679;</span> Sights &nbsp; <span style="color:#f59e0b">&#9679;</span> Wannsee (Option B) &nbsp; <span style="color:#ef4444">&#9679;</span> Food & coffee
-
-Open in Google Maps:
-[Potsdam Hbf](https://maps.google.com/?q=Potsdam+Hauptbahnhof) · [Sanssouci](https://maps.google.com/?q=Schloss+Sanssouci+Potsdam) · [Dutch Quarter](https://maps.google.com/?q=Holländisches+Viertel+Potsdam) · [Brandenburger Str.](https://maps.google.com/?q=Brandenburger+Straße+Potsdam) · [Wannsee Conference House](https://maps.google.com/?q=Haus+der+Wannsee-Konferenz)
+| Location | Link |
+|---|---|
+| **Potsdam Hauptbahnhof** | [Open in Maps](https://maps.google.com/?q=Potsdam+Hauptbahnhof) |
+| **Sanssouci Palace** | [Open in Maps](https://maps.google.com/?q=Schloss+Sanssouci+Potsdam) |
+| **Dutch Quarter** | [Open in Maps](https://maps.google.com/?q=Holländisches+Viertel+Potsdam) |
+| **Brandenburger Straße** | [Open in Maps](https://maps.google.com/?q=Brandenburger+Straße+Potsdam) |
+| **Nikolaikirche** | [Open in Maps](https://maps.google.com/?q=Nikolaikirche+Potsdam) |
+| **Cecilienhof Palace** | [Open in Maps](https://maps.google.com/?q=Schloss+Cecilienhof+Potsdam) |
+| **Haus der Wannsee-Konferenz** | [Open in Maps](https://maps.google.com/?q=Haus+der+Wannsee-Konferenz) |
+| **Maison Charlotte** | [Open in Maps](https://maps.google.com/?q=Maison+Charlotte+Potsdam) |
+| **Kaffeehaus Kieselstein** | [Open in Maps](https://maps.google.com/?q=Kaffeehaus+Kieselstein+Potsdam) |
 
 ---
 
