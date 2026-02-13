@@ -24,18 +24,18 @@ wittenbergplatz 2
 ,תהנו כי אי אפשר שלא.אוהבת
 
 ## תקציר פעולה (צ׳קליסט)
-- [ ] להירשם מראש לסיור: **Berlin Historic Center** (freewalkingtour.com) ~2:45 שעות
-- [ ] לבדוק אירועי אוכל בתאריכים שלכם:
-  - **eat! Berlin** מתקיים **19.2–1.3** (זה נופל על הימים שלכם)
-  - הערה: התאריכים **12.2–22.2** הם לרוב **Berlinale** (פסטיבל הקולנוע), לא “פסטיבל גורמה”
+- [x] להירשם מראש לסיור: **Berlin Historic Center** (freewalkingtour.com) ~2:45 שעות — בתכנון: 18.2 + 19.2
+- [x] לבדוק אירועי אוכל בתאריכים שלכם:
+  - **eat! Berlin** מתקיים **19.2–1.3** (זה נופל על הימים שלכם) — ראו `10-eat-berlin-events.md`
+  - הערה: התאריכים **12.2–22.2** הם לרוב **Berlinale** (פסטיבל הקולנוע), לא "פסטיבל גורמה"
 - [ ] לשקול כרטיס תחבורה: **Berlin WelcomeCard ABC (5 ימים)** — כולל **BER + Potsdam** (מחיר משתנה; סביב €55.90–€59.50)
-- [ ] **בית ועידת ונזה** (Haus der Wannsee-Konferenz) — פתוח **כל יום 10:00–18:00**, כניסה חופשית
-  - מסלול: S7 לכיוון Potsdam → ירידה Berlin-Wannsee → אוטובוס 114 לכיוון Heckeshorn → תחנה “Haus der Wannsee-Konferenz”
-- [ ] מוזיאונים באזור שרלוטנבורג:
+- [x] **בית ועידת ונזה** (Haus der Wannsee-Konferenz) — בתכנון: 21.2 (יום טיול פוטסדם)
+  - מסלול: S1 לכיוון Potsdam → ירידה Berlin-Wannsee → אוטובוס 114 לכיוון Heckeshorn → תחנה "Haus der Wannsee-Konferenz"
+- [x] מוזיאונים באזור שרלוטנבורג: — בתכנון: 22.2 (יום יציאה)
   - **Sammlung Scharf-Gerstenberg** — Schloßstraße 70 (מול הכניסה הראשית של טירת שרלוטנבורג)
   - **Käthe Kollwitz Museum** — נמצא כיום בתוך מתחם טירת שרלוטנבורג (Theaterbau)
-- [ ] Potsdam: **Dutch Quarter** + **Sanssouci** (ארמון/פארק)
-- [ ] KaDeWe: קומה עליונה / **קומת האוכל (Die Sechste)** לעוגות ותצפית
-- [ ] ארוחת ערב ליד KaDeWe: **Faustus Schnitzelhaus** — Wittenbergplatz 2 (שניצל עגל + רוטב פלפל בצד)
-- [ ] לטעום: **Currywurst** (בדוכן) + **Berliner Weisse אדום**
-- [ ] אם אתם בעיר ביום ראשון (22.2): **Mauerpark** — שוק 10:00–18:00, Bernauer Straße 63
+- [x] Potsdam: **Dutch Quarter** + **Sanssouci** (ארמון/פארק) — בתכנון: 21.2
+- [x] KaDeWe: קומה עליונה / **קומת האוכל (Die Sechste)** לעוגות ותצפית — בתכנון: 19.2 ערב
+- [x] ארוחת ערב ליד KaDeWe: **Faustus Schnitzelhaus** — Wittenbergplatz 2 (שניצל עגל + רוטב פלפל בצד) — בתכנון: 19.2 ערב
+- [x] לטעום: **Currywurst** (בדוכן) + **Berliner Weisse אדום** — בתכנון: 20.2 ערב בקרויצברג
+- [x] אם אתם בעיר ביום ראשון (22.2): **Mauerpark** — שוק 10:00–18:00, Bernauer Straße 63 — בתכנון: 22.2 בוקר

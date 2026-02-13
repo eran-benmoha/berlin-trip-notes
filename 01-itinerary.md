@@ -24,8 +24,10 @@
 - **Midday**: Berlin Cathedral (optional)
 - **Afternoon**: Unter den Linden / Gendarmenmarkt short stroll
 - **Late afternoon**: **Uniqlo** at Alexanderplatz (Alexa mall, Grunerstraße 20) — then **U8 back to Bernauer Straße** (~5 min) to drop bags at home base
-- **Evening**: dinner in Prenzlauer Berg (near lodging, bags dropped off)
-  - Optional: see if any **eat! Berlin** festival events fit your dates (19.2–1.3)
+- **Evening**: head to **Wittenbergplatz** area (U2 from Bernauer Straße, ~15 min)
+  - **KaDeWe food hall (Die Sechste, 6th floor)** — famous cakes, pastries + great views. Worth a browse even if you don’t eat here.
+  - **Dinner: Faustus Schnitzelhaus** (Wittenbergplatz 2, right next to KaDeWe) — veal schnitzel + pepper sauce on the side, great German beers
+  - Alternative: check **eat! Berlin** festival events instead (19.2–1.3)
 
 ## 20.2 (Wall / Cold War + Kreuzberg food)
 - **Weather**:
@@ -34,6 +36,8 @@
 - **Midday**: quick Checkpoint Charlie area look (optional)
 - **Afternoon (outdoor block)**: East Side Gallery + Oberbaum Bridge
 - **Evening**: Kreuzberg food + bars
+  - Grab a **Currywurst at a stand** (not a sit-down restaurant — this is the Berlin way)
+  - Try a **Berliner Weisse (red)** at a bar — sweet, sour, refreshing
 
 ## 21.2 (Wannsee + Potsdam day trip)
 - **Weather**:
@@ -44,8 +48,12 @@
 
 ## 22.2 (Departure day)
 - **Weather**:
-- **Light morning**: café/brunch + last walk near lodging
-- **If you have time (it’s Sunday)**: **Mauerpark flea market** (10:00–18:00)
+- **Morning**: café/brunch near lodging, then **Mauerpark flea market** (it’s Sunday! 10:00–18:00)
+- **Early afternoon**: Head to **Charlottenburg** (M10 tram → S-Bahn, ~25 min)
+  - **Sammlung Scharf-Gerstenberg** — Schloßstraße 70, opposite Charlottenburg Palace main entrance (surrealist art, open Sun)
+  - **Käthe Kollwitz Museum** — at Charlottenburg Palace (Theaterbau), Spandauer Damm 10 (open Sun)
+  - Stroll the **palace gardens** (behind the palace, free)
+- **Late lunch**: near Charlottenburg before heading out
 - **Optional (only if booked + time allows)**: Reichstag dome
 - **Head to BER** with buffer (flight departs ~21:30; consider leaving the city ~19:00)
 
