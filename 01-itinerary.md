@@ -23,7 +23,8 @@
 - **Afternoon**: Museum Island (pick 1 big museum, max 2)
 - **Midday**: Berlin Cathedral (optional)
 - **Afternoon**: Unter den Linden / Gendarmenmarkt short stroll
-- **Evening**: dinner in Mitte or Prenzlauer Berg
+- **Late afternoon**: **Uniqlo** at Alexanderplatz (Alexa mall, Grunerstraße 20) — then **U8 back to Bernauer Straße** (~5 min) to drop bags at home base
+- **Evening**: dinner in Prenzlauer Berg (near lodging, bags dropped off)
   - Optional: see if any **eat! Berlin** festival events fit your dates (19.2–1.3)
 
 ## 20.2 (Wall / Cold War + Kreuzberg food)
