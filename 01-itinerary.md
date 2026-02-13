@@ -39,12 +39,12 @@
 
 ## 19.2 (Museum Island + classic center)
 
-<iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=Rotes+Rathaus,+Berlin+to:Museumsinsel,+Berlin+to:Berliner+Dom+to:Gendarmenmarkt,+Berlin+to:Alexa+Alexanderplatz,+Berlin+to:KaDeWe,+Berlin+to:Faustus+Schnitzelhaus,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=Rotes+Rathaus,+Berlin+to:Hackesche+H%C3%B6fe,+Berlin+to:Museumsinsel,+Berlin+to:Berliner+Dom+to:Gendarmenmarkt,+Berlin+to:Alexa+Alexanderplatz,+Berlin+to:KaDeWe,+Berlin+to:Faustus+Schnitzelhaus,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
 
 - **Weather**:
 - **To Rotes Rathaus**: **U8** from "Bernauer Straße" → "Alexanderplatz" (~5 min), then walk (~5 min)
 - **Plan B (if 18.2 is too tight)**: **10:00–12:45** Free walking tour — **"Welcome to Berlin!" (English)** (Rotes Rathaus, yellow umbrella)
-- **Midday**: lunch + warm-up (Mitte area)
+- **Midday**: [**Hackesche Höfe**](https://www.google.com/maps/search/?api=1&query=Hackesche+H%C3%B6fe) — walk from Rotes Rathaus (~5 min). Beautiful courtyards with cafés, shops, galleries. Good lunch spot.
 - **Afternoon**: Museum Island (pick 1 big museum, max 2) — walk from Rotes Rathaus (~5 min)
 - **Midday**: Berlin Cathedral (optional) — on Museum Island, walkable
 - **Afternoon**: Unter den Linden / Gendarmenmarkt short stroll — walk south from Museum Island (~10 min)
@@ -60,6 +60,7 @@
 <summary>Open stops in Google Maps</summary>
 
 - [Rotes Rathaus (walking tour)](https://maps.google.com/?q=Rotes+Rathaus,+Berlin)
+- [Hackesche Höfe](https://maps.google.com/?q=Hackesche+H%C3%B6fe,+Berlin)
 - [Museum Island](https://maps.google.com/?q=Museumsinsel,+Berlin)
 - [Berlin Cathedral](https://maps.google.com/?q=Berliner+Dom)
 - [Gendarmenmarkt](https://maps.google.com/?q=Gendarmenmarkt,+Berlin)

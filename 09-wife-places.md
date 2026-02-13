@@ -26,7 +26,7 @@ Source list: [Google Maps shared list](https://www.google.com/maps/@52.4740695,1
 | [ארמון סנסוסי](https://www.google.com/maps/search/?api=1&query=%D7%90%D7%A8%D7%9E%D7%95%D7%9F+%D7%A1%D7%A0%D7%A1%D7%95%D7%A1%D7%99) | 4.6 |  | טירה |  | **21.2** |
 | [בית ועידת ואנזה](https://www.google.com/maps/search/?api=1&query=%D7%91%D7%99%D7%AA+%D7%95%D7%A2%D7%99%D7%93%D7%AA+%D7%95%D7%90%D7%A0%D7%96%D7%94) | 4.6 |  | אתר היסטורי |  | **21.2** |
 | [Saravanaa Bhavan](https://www.google.com/maps/search/?api=1&query=Saravanaa+Bhavan) | 4.6 |  | מסעדה דרום הודית | מסעדה הודית | — |
-| [Hackesche Höfe](https://www.google.com/maps/search/?api=1&query=Hackesche+H%C3%B6fe) | 4.5 |  | קניון |  | — |
+| [Hackesche Höfe](https://www.google.com/maps/search/?api=1&query=Hackesche+H%C3%B6fe) | 4.5 |  | קניון |  | **19.2** |
 | [Sticks'n'Sushi](https://www.google.com/maps/search/?api=1&query=Sticks%27n%27Sushi) | 4.5 |  | מסעדת סושי |  | — |
 | [Frühstück 3000 Schöneberg](https://www.google.com/maps/search/?api=1&query=Fr%C3%BChst%C3%BCck+3000+Sch%C3%B6neberg) | 4.5 |  | מסעדת ארוחות בוקר |  | — |
 | [Frühstück 3000](https://www.google.com/maps/search/?api=1&query=Fr%C3%BChst%C3%BCck+3000) | 4.3 |  | מסעדת בראנץ' |  | — |
