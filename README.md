@@ -1,0 +1,21 @@
+# Berlin Trip Notes (18.2 → 22.2)
+
+This folder is a lightweight “trip binder” in Markdown.
+
+## Files
+- `00-trip-overview.md`: key details, contacts, quick links
+- `01-itinerary.md`: day-by-day plan + options
+- `02-bookings.md`: confirmations, times, addresses
+- `03-places-food.md`: saved places (food, bars, museums, neighborhoods)
+- `04-budget.md`: spending plan + actuals
+- `05-packing.md`: February packing checklist
+- `06-daily-log.md`: quick daily journal + receipts notes
+- `07-hebrew-recommendations.md`: original Hebrew recommendations + checklist
+- `08-weather.md`: forecast tracker for each day
+- `09-wife-places.md`: wife’s saved places list (with ratings)
+- `10-eat-berlin-events.md`: eat! Berlin events (time + price tracker)
+
+## How to use
+- Put **anything with a confirmation number** in `02-bookings.md`.
+- Keep the itinerary “high level” in `01-itinerary.md`, and the details (addresses, booking times) in `02-bookings.md`.
+- Add places you discover on the go into `03-places-food.md` so you can pick quickly each evening.
