@@ -108,13 +108,9 @@ Same routes in reverse. Last S1 from Potsdam Hbf back toward Gesundbrunnen is us
 
 ## Map
 
-### Potsdam city center & Sanssouci
+### Full day trip route (from home base)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19468.!2d13.038!3d52.400!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a8f5be516ce021%3A0x87b11b3e9a1f2d68!2sSanssouci%20Palace!5e0!3m2!1sen!2sde!4v1700000000000!5m2!1sen!2sde" allowfullscreen="" loading="lazy"></iframe>
-
-### Wannsee Conference House
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4870.!2d13.163!3d52.433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a858a4e69a23c1%3A0x3e6eb7c64e498f29!2sHouse%20of%20the%20Wannsee%20Conference!5e0!3m2!1sen!2sde!4v1700000000000!5m2!1sen!2sde" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=S+U+Gesundbrunnen,+Berlin+to:Haus+der+Wannsee-Konferenz+to:Potsdam+Hauptbahnhof+to:Schloss+Sanssouci,+Potsdam+to:Holl%C3%A4ndisches+Viertel,+Potsdam&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
 
 ### Quick links (open in Google Maps)
 

@@ -39,7 +39,7 @@
 
 ## 19.2 (Museum Island + classic center)
 
-<iframe src="https://maps.google.com/maps?saddr=Rotes+Rathaus,+Berlin&daddr=Museumsinsel,+Berlin+to:Berliner+Dom+to:Gendarmenmarkt,+Berlin+to:Alexa+Alexanderplatz,+Berlin+to:KaDeWe,+Berlin+to:Faustus+Schnitzelhaus,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=Rotes+Rathaus,+Berlin+to:Museumsinsel,+Berlin+to:Berliner+Dom+to:Gendarmenmarkt,+Berlin+to:Alexa+Alexanderplatz,+Berlin+to:KaDeWe,+Berlin+to:Faustus+Schnitzelhaus,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
 
 - **Weather**:
 - **To Rotes Rathaus**: **U8** from "Bernauer Straße" → "Alexanderplatz" (~5 min), then walk (~5 min)
@@ -73,7 +73,7 @@
 
 ## 20.2 (Wall / Cold War + Kreuzberg food)
 
-<iframe src="https://maps.google.com/maps?saddr=Die+Creme,+Berlin&daddr=Topographie+des+Terrors,+Berlin+to:Checkpoint+Charlie,+Berlin+to:East+Side+Gallery,+Berlin+to:Oberbaumbr%C3%BCcke,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=Die+Creme,+Berlin+to:Topographie+des+Terrors,+Berlin+to:Checkpoint+Charlie,+Berlin+to:East+Side+Gallery,+Berlin+to:Oberbaumbr%C3%BCcke,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
 
 - **Weather**:
 - **Breakfast**: [**Die Creme**](https://www.google.com/maps/search/?api=1&query=Die+Creme) (Schönhauser Allee, Prenzlauer Berg) — walk from lodging (~5 min). Rated 4.6.
@@ -102,7 +102,7 @@
 
 ## 21.2 (Wannsee + Potsdam day trip)
 
-<iframe src="https://maps.google.com/maps?saddr=S+U+Gesundbrunnen,+Berlin&daddr=Haus+der+Wannsee-Konferenz+to:Potsdam+Hauptbahnhof+to:Schloss+Sanssouci,+Potsdam+to:Holl%C3%A4ndisches+Viertel,+Potsdam&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=S+U+Gesundbrunnen,+Berlin+to:Haus+der+Wannsee-Konferenz+to:Potsdam+Hauptbahnhof+to:Schloss+Sanssouci,+Potsdam+to:Holl%C3%A4ndisches+Viertel,+Potsdam&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
 
 - **Weather**:
 - **Full day trip**: Wannsee Conference House → Potsdam (Sanssouci, Dutch Quarter, city center)
@@ -128,7 +128,7 @@
 
 ## 22.2 (Departure day)
 
-<iframe src="https://maps.google.com/maps?saddr=Mauerpark,+Berlin&daddr=Sammlung+Scharf-Gerstenberg,+Berlin+to:Schloss+Charlottenburg,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=Mauerpark,+Berlin+to:Sammlung+Scharf-Gerstenberg,+Berlin+to:Schloss+Charlottenburg,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
 
 - **Weather**:
 - **Morning**: café/brunch near lodging, then walk to **Mauerpark flea market** (~5 min) (it's Sunday! 10:00–18:00)
