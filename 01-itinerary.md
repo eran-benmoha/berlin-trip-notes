@@ -10,7 +10,7 @@
 
 ## 18.2 (Arrival + easy first evening)
 
-<iframe src="https://www.google.com/maps/dir/Wolliner+Str+12b,+Berlin/Gedenkst%C3%A4tte+Berliner+Mauer/Mauerpark,+Berlin/Rotes+Rathaus,+Berlin/Brandenburger+Tor,+Berlin/Reichstag,+Berlin/" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=Gedenkst%C3%A4tte+Berliner+Mauer+to:Mauerpark,+Berlin+to:Rotes+Rathaus,+Berlin+to:Brandenburger+Tor,+Berlin+to:Reichstag,+Berlin&output=embed" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
 - **Weather**:
 - **Arrive (09:30)**
@@ -37,7 +37,7 @@
 
 ## 19.2 (Museum Island + classic center)
 
-<iframe src="https://www.google.com/maps/dir/Rotes+Rathaus,+Berlin/Museumsinsel,+Berlin/Berliner+Dom/Gendarmenmarkt,+Berlin/Alexa+Alexanderplatz,+Berlin/KaDeWe,+Berlin/Faustus+Schnitzelhaus,+Berlin/" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?saddr=Rotes+Rathaus,+Berlin&daddr=Museumsinsel,+Berlin+to:Berliner+Dom+to:Gendarmenmarkt,+Berlin+to:Alexa+Alexanderplatz,+Berlin+to:KaDeWe,+Berlin+to:Faustus+Schnitzelhaus,+Berlin&output=embed" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
 - **Weather**:
 - **Plan B (if 18.2 is too tight)**: **10:00–12:45** Free walking tour — **"Welcome to Berlin!" (English)** (Rotes Rathaus, yellow umbrella)
@@ -68,7 +68,7 @@
 
 ## 20.2 (Wall / Cold War + Kreuzberg food)
 
-<iframe src="https://www.google.com/maps/dir/Die+Creme,+Berlin/Topographie+des+Terrors,+Berlin/Checkpoint+Charlie,+Berlin/East+Side+Gallery,+Berlin/Oberbaumbr%C3%BCcke,+Berlin/" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?saddr=Die+Creme,+Berlin&daddr=Topographie+des+Terrors,+Berlin+to:Checkpoint+Charlie,+Berlin+to:East+Side+Gallery,+Berlin+to:Oberbaumbr%C3%BCcke,+Berlin&output=embed" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
 - **Weather**:
 - **Breakfast**: [**Die Creme**](https://www.google.com/maps/search/?api=1&query=Die+Creme) (Schönhauser Allee, Prenzlauer Berg) — short walk from lodging. Rated 4.6.
@@ -94,9 +94,7 @@
 
 ## 21.2 (Wannsee + Potsdam day trip)
 
-> See the full interactive map on the [Potsdam day trip page](11-potsdam-day-trip.html#map).
-
-<iframe src="https://www.google.com/maps/dir/S+U+Gesundbrunnen,+Berlin/S+Wannsee,+Berlin/Haus+der+Wannsee-Konferenz/Potsdam+Hauptbahnhof/Schloss+Sanssouci,+Potsdam/Holl%C3%A4ndisches+Viertel,+Potsdam/" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?saddr=S+U+Gesundbrunnen,+Berlin&daddr=Haus+der+Wannsee-Konferenz+to:Potsdam+Hauptbahnhof+to:Schloss+Sanssouci,+Potsdam+to:Holl%C3%A4ndisches+Viertel,+Potsdam&output=embed" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
 - **Weather**:
 - **Full day trip**: Wannsee Conference House → Potsdam (Sanssouci, Dutch Quarter, city center)
@@ -108,7 +106,6 @@
 <summary>Open stops in Google Maps</summary>
 
 - [S+U Gesundbrunnen (departure)](https://maps.google.com/?q=S+U+Gesundbrunnen,+Berlin)
-- [S Wannsee](https://maps.google.com/?q=S+Wannsee,+Berlin)
 - [Haus der Wannsee-Konferenz](https://maps.google.com/?q=Haus+der+Wannsee-Konferenz)
 - [Potsdam Hauptbahnhof](https://maps.google.com/?q=Potsdam+Hauptbahnhof)
 - [Sanssouci Palace](https://maps.google.com/?q=Schloss+Sanssouci,+Potsdam)
@@ -120,7 +117,7 @@
 
 ## 22.2 (Departure day)
 
-<iframe src="https://www.google.com/maps/dir/Mauerpark,+Berlin/Sammlung+Scharf-Gerstenberg,+Berlin/K%C3%A4the-Kollwitz-Museum,+Berlin/Schloss+Charlottenburg,+Berlin/" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?saddr=Mauerpark,+Berlin&daddr=Sammlung+Scharf-Gerstenberg,+Berlin+to:Schloss+Charlottenburg,+Berlin&output=embed" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
 - **Weather**:
 - **Morning**: café/brunch near lodging, then **Mauerpark flea market** (it's Sunday! 10:00–18:00)
