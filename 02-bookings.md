@@ -1,29 +1,26 @@
 # Bookings & Confirmations — Berlin (18.2 → 22.2)
 
+Quick nav: [Trip overview](00-trip-overview.html) · [Itinerary](01-itinerary.html) · [Home](index.html)
+
 ## Lodging
 | Item | Provider | Confirmation | Dates | Address | Notes |
 |---|---|---|---|---|---|
 | Lodging |  |  | 18.2 → 22.2 | Wolliner Str 12b, Berlin | Closest transit: M10 “Wolliner Str.”, U8 “Bernauer Straße” |
 
 ## Transport (Flights / Trains)
-| Item | Provider | Confirmation | When | Terminal/Platform | Notes |
-|---|---|---|---|---|---|
-| Arrival | El Al (LY) |  | 18.2 (arrive 09:30) | TLV (Ben Gurion) | Arrives **BER 09:30**. Likely route flight number: **LY2371** (TLV→BER). Verify exact time/terminal in your booking. |
-| Departure | El Al (LY) |  | 22.2 (depart ~21:30) | BER (Berlin Brandenburg) | Departs **~21:30**. Likely route flight number: **LY2372** (BER→TLV). Verify exact time/terminal in your booking. |
+| Leg | Provider | Booking/PNR | Date | Time | From → To | Notes |
+|---|---|---|---|---|---|---|
+| Arrival | El Al (LY) |  | 18.2 | Arrive **09:30** | TLV (Ben Gurion) → BER | Add: flight #, terminal, baggage info. |
+| Departure | El Al (LY) |  | 22.2 | Depart **~21:30** | BER → TLV | Add: flight #, terminal, baggage drop cutoff. |
 
 ### Getting to/from BER (notes)
 - Easiest from your area: **Tram M10 → Berlin Hbf**, then airport train (e.g. FEX/RE) to BER.
 
-### Reminder template (paste into your calendar once you confirm exact times)
-- **Event title**: Flight TLV → BER (El Al LY____)
-- **Start**: 18.2 __:__ (local) • **Arrive**: 09:30 (BER)
-- **Alerts**: 24h before, 3h before, 1h before
-- **Notes**: Booking/PNR: ______ • Bag drop cutoff: ______ • Terminal/Gate: ______
-
-- **Event title**: Flight BER → TLV (El Al LY____)
-- **Start**: 22.2 ~21:30 (local)
-- **Alerts**: 24h before, 3h before, 1h before
-- **Notes**: Booking/PNR: ______ • Airport arrival target: ______ (e.g., ~19:00) • Terminal/Gate: ______
+### Calendar reminder template (fill once you confirm exact times)
+- Flight TLV → BER (LY____) — **Depart** __:__ • **Arrive** 09:30
+  - Notes: PNR ____ • Terminal/Gate ____ • Bag drop cutoff ____
+- Flight BER → TLV (LY____) — **Depart** ~21:30
+  - Notes: PNR ____ • Terminal/Gate ____ • Bag drop cutoff ____ • “Leave hotel” time target ____
 
 ## Local transit
 | Item | Type | Bought? | Valid | Notes |
