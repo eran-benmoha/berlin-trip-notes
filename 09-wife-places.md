@@ -11,7 +11,7 @@ Source list: [Google Maps shared list](https://www.google.com/maps/@52.4740695,1
 | [Club der Visionäre](https://www.google.com/maps/search/?api=1&query=Club+der+Vision%C3%A4re) | 4.0 |  | מועדון לילה | מקום כיף לצאת בערב יש מוזיקה | — |
 | [Fotografiska Berlin](https://www.google.com/maps/search/?api=1&query=Fotografiska+Berlin) | 4.3 |  | מוזיאון לאמנות | תערוכות צילום מקום מגניב | — |
 | [Vabali](https://www.google.com/maps/search/?api=1&query=Vabali) | 4.6 |  | ספא | ספא אינדונזי | — |
-| [Monsieur Vuong](https://www.google.com/maps/search/?api=1&query=Monsieur+Vuong) | 4.6 |  | מסעדה וייטנאמית | שני ממש המליצה ויאטנמית מעולה | — |
+| [Monsieur Vuong](https://www.google.com/maps/search/?api=1&query=Monsieur+Vuong) | 4.6 |  | מסעדה וייטנאמית | שני ממש המליצה ויאטנמית מעולה | **21.2** |
 | [Boxhagener Platz](https://www.google.com/maps/search/?api=1&query=Boxhagener+Platz) | 4.3 |  | פארק | שוק אוכל בימי שבת שוק פשפשים בימי ראשון חרפק המליץ | — |
 | [Burgermeister Mehringdamm](https://www.google.com/maps/search/?api=1&query=Burgermeister+Mehringdamm) | 4.4 |  | מסעדת המבורגרים | המבורגר טעים חרפק המליץ | — |
 | [Mustafa's Gemüse Kebap](https://www.google.com/maps/search/?api=1&query=Mustafa%27s+Gem%C3%BCse+Kebap) | 4.2 |  | חנות קבבים | דונר מומלץ | — |

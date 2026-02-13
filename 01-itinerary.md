@@ -109,7 +109,9 @@
 - See detailed plan: [`11-potsdam-day-trip.md`](11-potsdam-day-trip.html)
 - **09:00** walk to **S+U Gesundbrunnen** (~10 min) → **S1** direction Potsdam → get off **S Wannsee** (~40 min) → **Bus 114** to Wannsee Conference House (~10 min) → **Bus 114** back → **S7** to **Potsdam Hbf** (~15 min) → **Bus 695** to Sanssouci (~15 min) → walk to Dutch Quarter (~15 min) → walk to Potsdam Hbf (~10 min) → **S1** back to **Gesundbrunnen** (~45 min)
 - **~18:00** back in Berlin
-- **Evening**: dinner in Berlin (near lodging or Prenzlauer Berg)
+- **Evening**: dinner at [**Monsieur Vuong**](https://www.google.com/maps/search/?api=1&query=Monsieur+Vuong) (Alte Schönhauser Straße 46, Mitte) — highly rated Vietnamese, perfect post-Potsdam meal
+  - Getting there: **S1/S2** from “Gesundbrunnen” → “Hackescher Markt” (~5 min), then walk (~3 min)
+  - Back to lodging: **S1/S2** from “Hackescher Markt” → “Gesundbrunnen” (~5 min)
 
 <details>
 <summary>Open stops in Google Maps</summary>
