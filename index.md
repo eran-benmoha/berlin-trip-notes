@@ -16,6 +16,7 @@ This is a lightweight “trip binder” in Markdown.
 - [Weather](08-weather.html)
 - [Wife’s places](09-wife-places.html)
 - [eat! Berlin events](10-eat-berlin-events.html)
+- [Potsdam day trip](11-potsdam-day-trip.html)
 
 ## Source files
 If you’re browsing the repo on GitHub (not the Pages site), see `README.md` and the `*.md` files directly.

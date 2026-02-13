@@ -28,7 +28,7 @@
 - [ ] Museum Island museum(s) (time slot)
 - [x] Free walking tour booked: “Welcome to Berlin!” (18.2 14:30–17:15)
 - [ ] Any concert / club tickets
-- [ ] Day trip (Potsdam / Sachsenhausen) plan
+- [x] Day trip (Potsdam / Sachsenhausen) plan — see `11-potsdam-day-trip.md`
 
 ## Quick links (paste your links here)
 - **Lodging link**:
