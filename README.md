@@ -3,9 +3,8 @@
 This folder is a lightweight “trip binder” in Markdown.
 
 ## Files
-- [`00-trip-overview.md`](00-trip-overview.md): key details, contacts, quick links
 - [`01-itinerary.md`](01-itinerary.md): day-by-day plan + options
-- [`02-bookings.md`](02-bookings.md): confirmations, times, addresses
+- [`02-bookings.md`](02-bookings.md): confirmations, times, addresses, emergency info, quick links
 - [`03-places-food.md`](03-places-food.md): saved places (food, bars, museums, neighborhoods)
 - [`05-packing.md`](05-packing.md): February packing checklist
 - [`07-hebrew-recommendations.md`](07-hebrew-recommendations.md): original Hebrew recommendations + checklist

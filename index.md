@@ -5,7 +5,6 @@ title: Berlin Trip Notes (18.2 → 22.2)
 This is a lightweight “trip binder” in Markdown.
 
 ## Pages
-- [Trip overview](00-trip-overview.html)
 - [Itinerary](01-itinerary.html)
 - [Bookings & confirmations](02-bookings.html)
 - [Places & food](03-places-food.html)

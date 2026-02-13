@@ -1,6 +1,6 @@
 # Bookings & Confirmations — Berlin (18.2 → 22.2)
 
-Quick nav: [Trip overview](00-trip-overview.html) · [Itinerary](01-itinerary.html) · [Home](index.html)
+Quick nav: [Itinerary](01-itinerary.html) · [Home](index.html)
 
 ## Lodging
 
@@ -20,6 +20,7 @@ Quick nav: [Trip overview](00-trip-overview.html) · [Itinerary](01-itinerary.ht
 - **Departure (22.2)**: **Tram M10** from "Wolliner Str." → **Berlin Hbf** (~15 min) → **FEX or RE** to BER (~30 min). Total ~45 min. Leave by **~19:00**.
   - If coming from Charlottenburg: **S41/S42** to "Südkreuz" (~20 min) → **FEX** to BER (~20 min).
 - All covered by **WelcomeCard ABC** (zone C includes BER).
+- ⚠️ **Airport note (Feb 2026)**: the FEX no longer runs via Gesundbrunnen — go via **Hauptbahnhof** or **Südkreuz**.
 
 ### Calendar reminder template (fill once you confirm exact times)
 - Flight TLV → BER (LY____) — **Depart** __:__ • **Arrive** 09:30
@@ -54,3 +55,16 @@ Quick nav: [Trip overview](00-trip-overview.html) · [Itinerary](01-itinerary.ht
 |---|---|---|---|---|
 | Potsdam |  |  |  |  |
 | Sachsenhausen |  |  |  |  |
+
+## Quick links (paste your links here)
+- **Lodging link**:
+- **Airline / tickets**:
+- **Museum tickets**:
+- **Berlin WelcomeCard**:
+- **eat! Berlin festival program**: [eat-berlin.de](https://www.eat-berlin.de)
+
+## Emergency + useful info
+- **Emergency number (Germany)**: 112
+- **Police (Germany)**: 110
+- **Nearest hospital**:
+- **Pharmacy near lodging**:
