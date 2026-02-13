@@ -15,7 +15,7 @@ Source list: [Google Maps shared list](https://www.google.com/maps/@52.4740695,1
 | [Boxhagener Platz](https://www.google.com/maps/search/?api=1&query=Boxhagener+Platz) | 4.3 |  | פארק | שוק אוכל בימי שבת שוק פשפשים בימי ראשון חרפק המליץ | — |
 | [Burgermeister Mehringdamm](https://www.google.com/maps/search/?api=1&query=Burgermeister+Mehringdamm) | 4.4 |  | מסעדת המבורגרים | המבורגר טעים חרפק המליץ | — |
 | [Mustafa's Gemüse Kebap](https://www.google.com/maps/search/?api=1&query=Mustafa%27s+Gem%C3%BCse+Kebap) | 4.2 |  | חנות קבבים | דונר מומלץ | — |
-| [RAW-Gelände](https://www.google.com/maps/search/?api=1&query=RAW-Gel%C3%A4nde) | 4.4 |  | מרכז תרבות | מתחם של ירידים ואוכל | — |
+| [RAW-Gelände](https://www.google.com/maps/search/?api=1&query=RAW-Gel%C3%A4nde) | 4.4 |  | מרכז תרבות | מתחם של ירידים ואוכל | **20.2** |
 | [מוזיאון משחקי המחשב](https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%95%D7%96%D7%99%D7%90%D7%95%D7%9F+%D7%9E%D7%A9%D7%97%D7%A7%D7%99+%D7%94%D7%9E%D7%97%D7%A9%D7%91) | 4.5 |  | מוזיאון לטכנולוגיה |  | — |
 | [אתר ההנצחה של חומת ברלין](https://www.google.com/maps/search/?api=1&query=%D7%90%D7%AA%D7%A8+%D7%94%D7%94%D7%A0%D7%A6%D7%97%D7%94+%D7%A9%D7%9C+%D7%97%D7%95%D7%9E%D7%AA+%D7%91%D7%A8%D7%9C%D7%99%D7%9F) | 4.6 |  | פארק הנצחה | לבוא לביקור על החומה | **18.2** |
 | [Berlin Treptower Park](https://www.google.com/maps/search/?api=1&query=Berlin+Treptower+Park) | 4.6 |  | שירות הסעות |  | — |
