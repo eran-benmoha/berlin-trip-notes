@@ -1,0 +1,9 @@
+title: Berlin Trip Notes (18.2 → 22.2)
+description: Lightweight trip binder in Markdown
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
