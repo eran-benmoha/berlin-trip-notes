@@ -10,9 +10,10 @@
 
 ## 18.2 (Arrival + easy first evening)
 
+> **Weather**: 0/-4°C, light snow AM clearing to overcast. Walking tour at 14:30 should be fine.
+
 <iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=Gedenkst%C3%A4tte+Berliner+Mauer+to:Mauerpark,+Berlin+to:Rotes+Rathaus,+Berlin+to:Brandenburger+Tor,+Berlin+to:Reichstag,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
 
-- **Weather**:
 - **Arrive BER (09:30)** → take **FEX or RE** to **Berlin Hbf** (~30 min), then **Tram M10** to "Wolliner Str." (~15 min)
 - **Get into the city + drop bags** (if check-in isn't ready, ask for luggage storage)
 - **Walk** to **Berlin Wall Memorial (Bernauer Straße)** (~5 min) + a quick look around **Mauerpark** (~10 min walk from memorial)
@@ -39,9 +40,10 @@
 
 ## 19.2 (Museum Island + classic center)
 
+> **Weather**: -1/-5°C, **dry all day**, partly cloudy. Best outdoor day — no rain/snow.
+
 <iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=Rotes+Rathaus,+Berlin+to:Hackesche+H%C3%B6fe,+Berlin+to:Museumsinsel,+Berlin+to:Berliner+Dom+to:Gendarmenmarkt,+Berlin+to:Alexa+Alexanderplatz,+Berlin+to:KaDeWe,+Berlin+to:Faustus+Schnitzelhaus,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
 
-- **Weather**:
 - **To Rotes Rathaus**: **U8** from "Bernauer Straße" → "Alexanderplatz" (~5 min), then walk (~5 min)
 - **Plan B (if 18.2 is too tight)**: **10:00–12:45** Free walking tour — **"Welcome to Berlin!" (English)** (Rotes Rathaus, yellow umbrella)
 - **Midday**: [**Hackesche Höfe**](https://www.google.com/maps/search/?api=1&query=Hackesche+H%C3%B6fe) — walk from Rotes Rathaus (~5 min). Beautiful courtyards with cafés, shops, galleries. Good lunch spot.
@@ -74,9 +76,10 @@
 
 ## 20.2 (Wall / Cold War + Kreuzberg food)
 
+> **Weather**: 0/-6°C, **clear and dry** but coldest morning. Dress in heavy layers for East Side Gallery.
+
 <iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=Die+Creme,+Berlin+to:Topographie+des+Terrors,+Berlin+to:Checkpoint+Charlie,+Berlin+to:East+Side+Gallery,+Berlin+to:Oberbaumbr%C3%BCcke,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
 
-- **Weather**:
 - **Breakfast**: [**Die Creme**](https://www.google.com/maps/search/?api=1&query=Die+Creme) (Schönhauser Allee, Prenzlauer Berg) — walk from lodging (~5 min). Rated 4.6.
 - **To Topography of Terror**: **U8** from "Bernauer Straße" → "Kochstraße" (~10 min), then walk (~5 min)
 - **Morning**: Topography of Terror (free, excellent)
@@ -103,9 +106,10 @@
 
 ## 21.2 (Wannsee + Potsdam day trip)
 
+> **Weather**: 4/0°C, **snow AM → rain midday**, 60% precip, windy. Sanssouci Park will be wet — see note below.
+
 <iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=S+U+Gesundbrunnen,+Berlin+to:Haus+der+Wannsee-Konferenz+to:Potsdam+Hauptbahnhof+to:Schloss+Sanssouci,+Potsdam+to:Holl%C3%A4ndisches+Viertel,+Potsdam&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
 
-- **Weather**:
 - **Full day trip**: Wannsee Conference House → Potsdam (Sanssouci, Dutch Quarter, city center)
 - See detailed plan: [`11-potsdam-day-trip.md`](11-potsdam-day-trip.html)
 - **09:00** walk to **S+U Gesundbrunnen** (~10 min) → **S1** direction Potsdam → get off **S Wannsee** (~40 min) → **Bus 114** to Wannsee Conference House (~10 min) → **Bus 114** back → **S7** to **Potsdam Hbf** (~15 min) → **Bus 695** to Sanssouci (~15 min) → walk to Dutch Quarter (~15 min) → walk to Potsdam Hbf (~10 min) → **S1** back to **Gesundbrunnen** (~45 min)
@@ -129,9 +133,10 @@
 
 ## 22.2 (Departure day)
 
+> **Weather**: 10/5°C, warmest day but **rain from ~15:00** (66%). Morning might be OK for Mauerpark.
+
 <iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=Mauerpark,+Berlin+to:Sammlung+Scharf-Gerstenberg,+Berlin+to:Schloss+Charlottenburg,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
 
-- **Weather**:
 - **Morning**: café/brunch near lodging, then walk to **Mauerpark flea market** (~5 min) (it's Sunday! 10:00–18:00)
 - **To Charlottenburg**: **Tram M10** from "Friedrich-Ludwig-Jahn-Sportpark" → "S+U Hauptbahnhof", then **S3/S5/S7** → "Westend" (~25 min total), walk to museums (~10 min). Or **M10** to "U Turmstraße" then **U9** → "Jungfernheide", **S41/S42** → "Westend".
 - **Early afternoon**: **Charlottenburg**
