@@ -126,7 +126,7 @@ If your carrier charges a lot for roaming, buy a travel eSIM. For a **5-day trip
 
 ### How to set up
 
-1. **Check your phone supports eSIM** — most iPhones (XS and newer) and recent Samsung/Pixel phones do.
+1. **Check your phone supports eSIM** — iPhone 14 and newer (including iPhone 17) support **dual eSIM** (two active at once, up to 8 installed). Most recent Samsung/Pixel phones also support eSIM.
 2. **Download the app** (Airalo / Holafly / Saily) while still in Israel on WiFi.
 3. **Buy + install the eSIM** — follow the app instructions. It adds a second "line" to your phone.
 4. **Don't activate yet** — wait until you land at BER.
