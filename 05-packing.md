@@ -66,8 +66,9 @@
 ---
 
 ## Tech
-- [ ] **Phone + charger cable**
-- [ ] **Power bank** — long days out, you'll use maps + camera constantly.
+- [ ] **Phone + charger cable (USB-C)**
+- [ ] **Lightning cable** (for any Lightning devices)
+- [ ] **Power bank + cable** — long days out, you'll use maps + camera constantly.
 - [ ] **EU plug adapter (Type C/F)** — Israel uses Type H plugs. **You need an adapter.** Buy one before you go or at BER airport.
 - [ ] **Headphones** — for flights, transit, podcasts.
 - [ ] **Offline maps** — download Berlin + Potsdam in Google Maps for offline use (saves battery + works in U-Bahn underground).
