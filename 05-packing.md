@@ -72,6 +72,66 @@
 - [ ] **EU plug adapter (Type C/F)** — Israel uses Type H plugs. **You need an adapter.** Buy one before you go or at BER airport.
 - [ ] **Headphones** — for flights, transit, podcasts.
 - [ ] **Offline maps** — download Berlin + Potsdam in Google Maps for offline use (saves battery + works in U-Bahn underground).
+- [ ] **eSIM set up** — see section below. Install before you fly.
+
+---
+
+## eSIM / mobile data — options for Israeli travelers
+
+> Set up your eSIM **before you leave Israel**. Activate it when you land at BER. You need data for Google Maps, transit apps, and restaurant lookups all day.
+
+### Option 1: Check your Israeli carrier first (might be free or cheap)
+
+Before buying anything, check if your existing Israeli plan already includes EU roaming:
+
+| Carrier | What to check | How |
+|---|---|---|
+| **Golan Telecom** | Many Golan plans include **free EU roaming data** (often 5–10 GB) or a very cheap add-on. This may be all you need. | Check your plan in the Golan app or call *5765 |
+| **Partner (Orange)** | Has roaming bundles. Prices vary by plan. | Check the Partner app → "חו"ל" section, or call *054 |
+| **Cellcom** | Offers roaming packages. Check before buying a separate eSIM. | Cellcom app → roaming, or call *123 |
+| **HOT Mobile** | Has international packages. Some plans include EU data. | HOT app or call *053 |
+| **Pelephone** | Roaming bundles available. | Pelephone app or call *166 |
+
+**If your carrier gives you 3+ GB EU data for free or under ₪30 — just use that. No need for a separate eSIM.**
+
+### Option 2: Israeli credit card benefits
+
+Some Israeli credit cards include travel perks. Check yours:
+
+- **Cal (כאל) Platinum / Signature** — may include travel data benefits or partner discounts on roaming/eSIM services. Check the Cal app under "הטבות לנוסע".
+- **Max (Isracard) Gold / Platinum** — sometimes partners with travel eSIM providers or offers roaming credits. Check the Max app → "הטבות".
+- **Leumi Card Premium** — check for travel-related perks.
+- **Any card with "travel package"** (חבילת נוסע) — some include a small data bundle for abroad.
+
+**Action**: Open your credit card app → search "נסיעות" or "חו"ל" → check if there's an eSIM or roaming perk included.
+
+### Option 3: Buy a travel eSIM (best if carrier roaming is expensive)
+
+If your carrier charges a lot for roaming, buy a travel eSIM. For a **5-day trip with heavy Maps + social media use**, you need **3–5 GB**.
+
+**Best options ranked:**
+
+| Provider | Plan | Price | Why |
+|---|---|---|---|
+| **Airalo** | Europe 3 GB / 30 days | ~$11 (₪40) | Best value. Reliable, huge coverage. Easy app. |
+| **Saily** (by NordVPN) | Europe 5 GB / 30 days | ~$12 (₪44) | Great value, simple setup. |
+| **aloSIM** | Europe 5 GB / 30 days | ~$11 (₪40) | Budget pick, works well. |
+| **Holafly** | Europe unlimited / 5 days | ~$19 (₪70) | **Unlimited data** — no worrying about usage. Best if you use a lot of data, stream, or hotspot. |
+| **Nomad** | Europe 5 GB / 30 days | ~$14 (₪51) | Solid alternative to Airalo. |
+
+**Recommendation**: 
+- **Light use** (maps + messaging): **Airalo 3 GB** (~$11) is enough.
+- **Normal use** (maps + social + photos): **Saily or aloSIM 5 GB** (~$12).
+- **Heavy use / peace of mind**: **Holafly unlimited 5 days** (~$19).
+
+### How to set up
+
+1. **Check your phone supports eSIM** — most iPhones (XS and newer) and recent Samsung/Pixel phones do.
+2. **Download the app** (Airalo / Holafly / Saily) while still in Israel on WiFi.
+3. **Buy + install the eSIM** — follow the app instructions. It adds a second "line" to your phone.
+4. **Don't activate yet** — wait until you land at BER.
+5. **At BER**: Go to Settings → Cellular/Mobile → turn on the eSIM data line. Turn off data roaming on your Israeli line.
+6. **Keep your Israeli SIM active** for calls/SMS (incoming calls from Israel will still work, or use WhatsApp calls over the eSIM data).
 
 ---
 
