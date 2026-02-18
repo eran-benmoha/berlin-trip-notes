@@ -44,19 +44,18 @@
 
 <iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=Rotes+Rathaus,+Berlin+to:Hackesche+H%C3%B6fe,+Berlin+to:Museumsinsel,+Berlin+to:Berliner+Dom+to:Gendarmenmarkt,+Berlin+to:Alexa+Alexanderplatz,+Berlin+to:KaDeWe,+Berlin+to:Faustus+Schnitzelhaus,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
 
-- **To Rotes Rathaus**: **U8** from "Bernauer Straße" → "Alexanderplatz" (~5 min), then walk (~5 min)
-- **Plan B (if 18.2 is too tight)**: **10:00–12:45** Free walking tour — **"Welcome to Berlin!" (English)** (Rotes Rathaus, yellow umbrella)
-- **Midday**: [**Hackesche Höfe**](https://www.google.com/maps/search/?api=1&query=Hackesche+H%C3%B6fe) — walk from Rotes Rathaus (~5 min). Beautiful courtyards with cafés, shops, galleries. Good lunch spot.
-- **Afternoon**: Museum Island (pick 1 big museum, max 2) — walk from Rotes Rathaus (~5 min)
-- **Midday**: Berlin Cathedral (optional) — on Museum Island, walkable
-- **Afternoon**: Unter den Linden / Gendarmenmarkt short stroll — walk south from Museum Island (~10 min)
-- **Late afternoon**: **Uniqlo** at Alexanderplatz (Alexa mall, Grunerstraße 20) — walk from Gendarmenmarkt (~15 min) or **U2** from "Hausvogteiplatz" → "Alexanderplatz" (~5 min)
-  - Then **U8** from "Alexanderplatz" → "Bernauer Straße" (~5 min) to drop bags at home base
-- **Evening**: head to **Wittenbergplatz** area — **U2** from "Bernauer Straße" → "Wittenbergplatz" (direct, ~15 min)
+- **Morning**: **10:00–12:45** Free walking tour — **"Welcome to Berlin!" (English)** (meet at **Rotes Rathaus**, yellow umbrella). Booking **#333455829**.
+  - Getting there: **U8** from "Bernauer Straße" → "Alexanderplatz" (~5 min), then walk (~5 min). Arrive by 09:50.
+- **Lunch**: [**Hackesche Höfe**](https://www.google.com/maps/search/?api=1&query=Hackesche+H%C3%B6fe) — walk from Rotes Rathaus (~5 min). Beautiful courtyards with cafés, shops, galleries.
+- **Afternoon**: Museum Island (pick 1 big museum, max 2) — walk from Hackesche Höfe (~5 min)
+- Berlin Cathedral (optional) — on Museum Island, walkable
+- Unter den Linden / Gendarmenmarkt short stroll — walk south from Museum Island (~10 min)
+- **Evening**: head to **Wittenbergplatz** area — **U2** from "Hausvogteiplatz" → "Wittenbergplatz" (~10 min)
   - **KaDeWe food hall (Die Sechste, 6th floor)** — famous cakes, pastries + great views. Worth a browse even if you don't eat here.
   - **Dinner: Faustus Schnitzelhaus** (Wittenbergplatz 2, right next to KaDeWe) — veal schnitzel + pepper sauce on the side, great German beers
   - Alternative: check **eat! Berlin** festival events instead (19.2–1.3)
-- **Back to lodging**: **U2** from "Wittenbergplatz" → "Bernauer Straße" (direct, ~15 min)
+- **After dinner**: **U2** from "Wittenbergplatz" → "Alexanderplatz" (direct, ~15 min) → **pick up pants alterations at Uniqlo** (Alexa mall, Grunerstraße 20 — open until 21:00)
+- **Back to lodging**: **U8** from "Alexanderplatz" → "Bernauer Straße" (~5 min)
 
 <details>
 <summary>Open stops in Google Maps</summary>
