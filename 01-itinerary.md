@@ -103,28 +103,34 @@
 
 ---
 
-## 21.2 (Wannsee + Potsdam day trip)
+## 21.2 (Flexible day — it’s Saturday!)
 
-> **Weather**: 4/0°C, **snow AM → rain midday**, 60% precip, windy. Sanssouci Park will be wet — see note below.
+> **Weather**: 4/0°C, snow AM → rain midday, 60% precip, windy. Good day for **indoor activities**.
 
-<iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=S+U+Gesundbrunnen,+Berlin+to:Haus+der+Wannsee-Konferenz+to:Potsdam+Hauptbahnhof+to:Schloss+Sanssouci,+Potsdam+to:Holl%C3%A4ndisches+Viertel,+Potsdam&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?saddr=Wolliner+Str+12b,+Berlin&daddr=Boxhagener+Platz,+Berlin+to:Fotografiska+Berlin+to:Monsieur+Vuong,+Berlin&dirflg=r&output=embed" allowfullscreen="" loading="lazy"></iframe>
 
-- **Full day trip**: Wannsee Conference House → Potsdam (Sanssouci, Dutch Quarter, city center)
-- See detailed plan: [`11-potsdam-day-trip.md`](11-potsdam-day-trip.html)
-- **09:00** walk to **S+U Gesundbrunnen** (~10 min) → **S1** direction Potsdam → get off **S Wannsee** (~40 min) → **Bus 114** to Wannsee Conference House (~10 min) → **Bus 114** back → **S7** to **Potsdam Hbf** (~15 min) → **Bus 695** to Sanssouci (~15 min) → walk to Dutch Quarter (~15 min) → walk to Potsdam Hbf (~10 min) → **S1** back to **Gesundbrunnen** (~45 min)
-- **~18:00** back in Berlin
-- **Evening**: dinner at [**Monsieur Vuong**](https://www.google.com/maps/search/?api=1&query=Monsieur+Vuong) (Alte Schönhauser Straße 46, Mitte) — highly rated Vietnamese, perfect post-Potsdam meal
-  - Getting there: **S1/S2** from “Gesundbrunnen” → “Hackescher Markt” (~5 min), then walk (~3 min)
-  - Back to lodging: **S1/S2** from “Hackescher Markt” → “Gesundbrunnen” (~5 min)
+Pick what feels right — suggestions below. Keep it relaxed after 3 full days of walking.
+
+- **Morning**: sleep in, or head to **Boxhagener Platz Saturday food market** (Friedrichshain) — street food, coffee, local vibe
+  - Getting there: **U8** from "Bernauer Straße" → "Alexanderplatz", then **U5** → "Frankfurter Tor" (~15 min), walk ~5 min
+- **Midday / afternoon** — pick one or two:
+  - [**Fotografiska Berlin**](https://www.google.com/maps/search/?api=1&query=Fotografiska+Berlin) — photography museum, great rainy-day indoor option (Oranienburger Straße)
+  - [**Vabali Spa**](https://www.google.com/maps/search/?api=1&query=Vabali) — Indonesian-style day spa near Hauptbahnhof. Perfect after days of walking in the cold. Book a half-day.
+  - [**Computerspielemuseum**](https://www.google.com/maps/search/?api=1&query=Computerspielemuseum+Berlin) — fun interactive gaming museum in Friedrichshain (near Boxhagener Platz)
+  - **Shopping**: Zalando Outlet (Tauentzienstraße) or browse Friedrichshain/Kreuzberg vintage shops
+  - **Café hopping**: explore Prenzlauer Berg or Kreuzberg cafés at your own pace
+- **Evening**: dinner at [**Monsieur Vuong**](https://www.google.com/maps/search/?api=1&query=Monsieur+Vuong) (Alte Schönhauser Straße 46, Mitte) — highly rated Vietnamese
+  - Getting there: **S1/S2** from "Gesundbrunnen" → "Hackescher Markt" (~5 min), then walk (~3 min)
+  - Back to lodging: **S1/S2** from "Hackescher Markt" → "Gesundbrunnen" (~5 min)
 
 <details>
 <summary>Open stops in Google Maps</summary>
 
-- [S+U Gesundbrunnen (departure)](https://maps.google.com/?q=S+U+Gesundbrunnen,+Berlin)
-- [Haus der Wannsee-Konferenz](https://maps.google.com/?q=Haus+der+Wannsee-Konferenz)
-- [Potsdam Hauptbahnhof](https://maps.google.com/?q=Potsdam+Hauptbahnhof)
-- [Sanssouci Palace](https://maps.google.com/?q=Schloss+Sanssouci,+Potsdam)
-- [Dutch Quarter](https://maps.google.com/?q=Holl%C3%A4ndisches+Viertel,+Potsdam)
+- [Boxhagener Platz (Saturday market)](https://maps.google.com/?q=Boxhagener+Platz,+Berlin)
+- [Fotografiska Berlin](https://maps.google.com/?q=Fotografiska+Berlin)
+- [Vabali Spa](https://maps.google.com/?q=Vabali+Spa+Berlin)
+- [Computerspielemuseum](https://maps.google.com/?q=Computerspielemuseum+Berlin)
+- [Monsieur Vuong](https://maps.google.com/?q=Monsieur+Vuong,+Berlin)
 
 </details>
 

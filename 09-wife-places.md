@@ -9,10 +9,10 @@ Source list: [Google Maps shared list](https://www.google.com/maps/@52.4740695,1
 | Place | Rating | Reviews | Category | Note | In itinerary? |
 |---|---:|---:|---|---|---|
 | [Club der Visionäre](https://www.google.com/maps/search/?api=1&query=Club+der+Vision%C3%A4re) | 4.0 |  | מועדון לילה | מקום כיף לצאת בערב יש מוזיקה | — |
-| [Fotografiska Berlin](https://www.google.com/maps/search/?api=1&query=Fotografiska+Berlin) | 4.3 |  | מוזיאון לאמנות | תערוכות צילום מקום מגניב | — |
+| [Fotografiska Berlin](https://www.google.com/maps/search/?api=1&query=Fotografiska+Berlin) | 4.3 |  | מוזיאון לאמנות | תערוכות צילום מקום מגניב | **21.2** |
 | [Vabali](https://www.google.com/maps/search/?api=1&query=Vabali) | 4.6 |  | ספא | ספא אינדונזי | — |
 | [Monsieur Vuong](https://www.google.com/maps/search/?api=1&query=Monsieur+Vuong) | 4.6 |  | מסעדה וייטנאמית | שני ממש המליצה ויאטנמית מעולה | **21.2** |
-| [Boxhagener Platz](https://www.google.com/maps/search/?api=1&query=Boxhagener+Platz) | 4.3 |  | פארק | שוק אוכל בימי שבת שוק פשפשים בימי ראשון חרפק המליץ | — |
+| [Boxhagener Platz](https://www.google.com/maps/search/?api=1&query=Boxhagener+Platz) | 4.3 |  | פארק | שוק אוכל בימי שבת שוק פשפשים בימי ראשון חרפק המליץ | **21.2** |
 | [Burgermeister Mehringdamm](https://www.google.com/maps/search/?api=1&query=Burgermeister+Mehringdamm) | 4.4 |  | מסעדת המבורגרים | המבורגר טעים חרפק המליץ | — |
 | [Mustafa's Gemüse Kebap](https://www.google.com/maps/search/?api=1&query=Mustafa%27s+Gem%C3%BCse+Kebap) | 4.2 |  | חנות קבבים | דונר מומלץ | — |
 | [RAW-Gelände](https://www.google.com/maps/search/?api=1&query=RAW-Gel%C3%A4nde) | 4.4 |  | מרכז תרבות | מתחם של ירידים ואוכל | **20.2** |
@@ -23,8 +23,8 @@ Source list: [Google Maps shared list](https://www.google.com/maps/@52.4740695,1
 | [Takumi NINE 1](https://www.google.com/maps/search/?api=1&query=Takumi+NINE+1) | 4.5 |  | מסעדה שמגישה מרק ראמן | לאכול ראמן מיסו המלצה של חרפק | — |
 | [Wolliner Str. 12B](https://www.google.com/maps/search/?api=1&query=Wolliner+Str.+12B%2C+Berlin) |  |  |  |  | **Home base** |
 | [ארמון שרלוטנבורג (Schloss Charlottenburg)](https://www.google.com/maps/search/?api=1&query=%D7%90%D7%A8%D7%9E%D7%95%D7%9F+%D7%A9%D7%A8%D7%9C%D7%95%D7%98%D7%A0%D7%91%D7%95%D7%A8%D7%92+%28Schloss+Charlottenburg%29) | 4.6 |  | טירה |  | **22.2** |
-| [ארמון סנסוסי](https://www.google.com/maps/search/?api=1&query=%D7%90%D7%A8%D7%9E%D7%95%D7%9F+%D7%A1%D7%A0%D7%A1%D7%95%D7%A1%D7%99) | 4.6 |  | טירה |  | **21.2** |
-| [בית ועידת ואנזה](https://www.google.com/maps/search/?api=1&query=%D7%91%D7%99%D7%AA+%D7%95%D7%A2%D7%99%D7%93%D7%AA+%D7%95%D7%90%D7%A0%D7%96%D7%94) | 4.6 |  | אתר היסטורי |  | **21.2** |
+| [ארמון סנסוסי](https://www.google.com/maps/search/?api=1&query=%D7%90%D7%A8%D7%9E%D7%95%D7%9F+%D7%A1%D7%A0%D7%A1%D7%95%D7%A1%D7%99) | 4.6 |  | טירה |  | — |
+| [בית ועידת ואנזה](https://www.google.com/maps/search/?api=1&query=%D7%91%D7%99%D7%AA+%D7%95%D7%A2%D7%99%D7%93%D7%AA+%D7%95%D7%90%D7%A0%D7%96%D7%94) | 4.6 |  | אתר היסטורי |  | — |
 | [Saravanaa Bhavan](https://www.google.com/maps/search/?api=1&query=Saravanaa+Bhavan) | 4.6 |  | מסעדה דרום הודית | מסעדה הודית | — |
 | [Hackesche Höfe](https://www.google.com/maps/search/?api=1&query=Hackesche+H%C3%B6fe) | 4.5 |  | קניון |  | **19.2** |
 | [Sticks'n'Sushi](https://www.google.com/maps/search/?api=1&query=Sticks%27n%27Sushi) | 4.5 |  | מסעדת סושי |  | — |
