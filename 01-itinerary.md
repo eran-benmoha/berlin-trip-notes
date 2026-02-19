@@ -85,6 +85,7 @@
 - **Midday**: quick Checkpoint Charlie area look (optional) — walk from Topography of Terror (~5 min)
 - **To East Side Gallery**: **U6** from "Kochstraße" → "Hallesches Tor", change to **U1** → "Schlesisches Tor" (~15 min total), then walk (~10 min). Or **Bus M29** from Checkpoint Charlie area.
 - **Afternoon (outdoor block)**: East Side Gallery + Oberbaum Bridge — walkable from each other (~2 min)
+- **[Open Kreuzberg walking route in Google Maps](https://www.google.com/maps/dir/Kottbusser+Tor,+Berlin/Graefestr.,+Berlin/Paul-Lincke-Ufer,+Berlin/Admiralbr%C3%BCcke,+Berlin/Oranienstra%C3%9Fe,+Berlin/Marheineke+Markthalle,+Berlin/Viktoriapark,+Berlin/Burgermeister+Mehringdamm,+Berlin/@52.4925,13.4125,14z/data=!3m1!4b1!4m2!4m1!3e2)** (tap to open, walking directions)
 - **Kreuzberg walking route (~3 hrs)**:
   1. **Kottbusser Tor** — start here. The gritty heart of Kreuzberg. Look around the square, soak in the vibe.
   2. Walk south on **Kottbusser Damm** → turn onto **Graefestraße** into the **Graefekiez** — quiet, leafy streets, cozy cafés. Good warm-up coffee stop (~15 min walk).
