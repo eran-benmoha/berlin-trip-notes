@@ -85,8 +85,16 @@
 - **Midday**: quick Checkpoint Charlie area look (optional) — walk from Topography of Terror (~5 min)
 - **To East Side Gallery**: **U6** from "Kochstraße" → "Hallesches Tor", change to **U1** → "Schlesisches Tor" (~15 min total), then walk (~10 min). Or **Bus M29** from Checkpoint Charlie area.
 - **Afternoon (outdoor block)**: East Side Gallery + Oberbaum Bridge — walkable from each other (~2 min)
-- **Evening**: walk to [**RAW-Gelände**](https://www.google.com/maps/search/?api=1&query=RAW-Gel%C3%A4nde) (Revaler Straße 99, Friedrichshain) — ~10 min walk from East Side Gallery. Street food, bars, gritty Berlin vibe.
-  - Grab a **Currywurst at a stand** (not a sit-down restaurant — this is the Berlin way)
+- **Kreuzberg walking route (~3 hrs)**:
+  1. **Kottbusser Tor** — start here. The gritty heart of Kreuzberg. Look around the square, soak in the vibe.
+  2. Walk south on **Kottbusser Damm** → turn onto **Graefestraße** into the **Graefekiez** — quiet, leafy streets, cozy cafés. Good warm-up coffee stop (~15 min walk).
+  3. Continue to **Paul-Lincke-Ufer** — beautiful walk along the **Landwehr Canal**. One of the prettiest stretches in Kreuzberg (~10 min).
+  4. Cross at **Admiralbrücke** — iconic hangout bridge. Photo spot.
+  5. Walk to **Oranienstraße** — the main artery of Kreuzberg. Street art, bars, independent shops, alternative culture. Walk the full length (~15 min).
+  6. Detour south to **Bergmannstraße** (Bergmannkiez) — charming café-lined street, bookshops, delis. Visit **Marheineke Markthalle** (covered market — good for a snack/warm-up). ~10 min walk from Oranienstraße.
+  7. **Viktoriapark** — climb the hill for the viewpoint + Kreuzberg monument (the actual hill the neighborhood is named after). Worth the short climb. ~5 min from Bergmannstraße.
+  8. End at **Mehringdamm** — grab a **Currywurst** at a stand, or hit [**Burgermeister**](https://www.google.com/maps/search/?api=1&query=Burgermeister+Mehringdamm) (under the U-Bahn tracks). [**Mustafa’s Gemüse Kebap**](https://www.google.com/maps/search/?api=1&query=Mustafa%27s+Gem%C3%BCse+Kebap) is also here (expect a queue).
+- **After Kreuzberg walk**: head to [**RAW-Gelände**](https://www.google.com/maps/search/?api=1&query=RAW-Gel%C3%A4nde) (Revaler Straße 99, Friedrichshain) — **U7** from "Mehringdamm" → "Hermannplatz", change **U8** → "Alexanderplatz", then **S3/S5/S7** → "Warschauer Straße" (~25 min). Or take **U1** from "Kottbusser Tor" → "Warschauer Straße" (direct, ~10 min).
   - Try a **Berliner Weisse (red)** at a bar — sweet, sour, refreshing
 - **Back to lodging**: **S3/S5/S7** from "Warschauer Straße" → "Gesundbrunnen" (~15 min). Or **U1** from "Warschauer Straße" → "Kottbusser Tor", change to **U8** → "Bernauer Straße" (~20 min)
 
